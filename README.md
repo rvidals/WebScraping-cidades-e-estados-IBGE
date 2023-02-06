@@ -1,6 +1,6 @@
 # WebScraping do painel Cidades e Estados do IBGE
 
-![GitHub](https://github.com/rvidals/WebScraping-cidades-e-estados-IBGE)
+![GitHub](https://img.shields.io/github/license/rvidals/WebScraping-cidades-e-estados-IBGE)
 
 Dando continuidade aos meus estudo de Web Scraping, encontrei um vídeo excepcional no [Youtube](https://youtu.be/OpX5Y7dzNjI) de um brasileiro que escreve um algoritmo que faz raspagem por Unidade da Federação no painel [Cidades e Estados](https://www.ibge.gov.br/cidades-e-estados) do IBGE, em que captura uma série de informações interessantes, por exemplo:
 
