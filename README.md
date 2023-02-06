@@ -1,6 +1,6 @@
 # WebScraping do painel Cidades e Estados do IBGE
 
-![GitHub](link)
+![GitHub](https://github.com/rvidals/WebScraping-cidades-e-estados-IBGE)
 
 Dando continuidade aos meus estudo de Web Scraping, encontrei um vídeo excepcional no [Youtube](https://youtu.be/OpX5Y7dzNjI) de um brasileiro que escreve um algoritmo que faz raspagem por Unidade da Federação no painel [Cidades e Estados](https://www.ibge.gov.br/cidades-e-estados) do IBGE, em que captura uma série de informações interessantes, por exemplo:
 
@@ -42,9 +42,9 @@ A ideia é rodar o algoritmo de seis em seis meses ou ano a ano e assim gerar um
 
 
 # Bibliotecas Utilizadas
-- [requests](https://requests.readthedocs.io/en/latest/)
-- [datetime](https://docs.python.org/3/library/datetime.html)
-- [pandas](https://pandas.pydata.org/)
+- [Requests](https://requests.readthedocs.io/en/latest/)
+- [Datetime](https://docs.python.org/3/library/datetime.html)
+- [Pandas](https://pandas.pydata.org/)
 
 # Autor
 Rogerio Vidal de Siqueira
