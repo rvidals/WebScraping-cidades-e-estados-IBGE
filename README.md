@@ -4,18 +4,18 @@
 
 Dando continuidade aos meus estudo de Web Scraping, encontrei um vídeo excepcional no [Youtube](https://youtu.be/OpX5Y7dzNjI) de um brasileiro que escreve um algoritmo que faz raspagem por Unidade da Federação no painel [Cidades e Estados](https://www.ibge.gov.br/cidades-e-estados) do IBGE, em que captura uma série de informações interessantes, por exemplo:
 
-    a) Nome do Governador
-    b) Capital
-    c) Gentílico
-    d) Área Territorial
-    e) População estimada
-    f) Densidade Demográfica
-    g) Mátriculas no ensino fundamental
-    h) IDH
-    i) Receitas realizadas
-    j) Despesas empenhadas
-    k) Rendimento mensal domiciliar per capita
-    l) Total de veículos
+1.  Nome do Governador
+2.  Capital
+3.   Gentílico
+4.  Área Territorial
+5.  População estimada
+6.  Densidade Demográfica
+7.  Mátriculas no ensino fundamental
+8.  IDH
+9.  Receitas realizadas
+10.  Despesas empenhadas
+11.  Rendimento mensal domiciliar per capita
+12.  Total de veículos
 
 O bacana que além de fazer a raspagem é possível fazer um tratamento básico nos dados, como converter dados do tipo objeto para numérico. Gostei bastante, visto que não conhecia a capacidade de usar dicts para realizar várias filtragens de uma única fez usando o .replace do pandas.
 
@@ -26,17 +26,17 @@ Pois bem, fiz uma série de alterações e criei um algoritmo que além de fazer
 
 As informações adquiridas por município são as seguintes:
 
-    a) Nome do Prefeito
-    b) Gentílico
-    c) Área Territorial
-    d) População estimada
-    e) Densidade Demográfica
-    f) Escolarização
-    g) IDHM
-    h) Mortalidade infantil
-    i) Receitas realizadas
-    j) Despesas empenhadas
-    k) PIB per capita
+1.  Nome do Prefeito
+2.  Gentílico
+3.  Área Territorial
+4.  População estimada
+5.  Densidade Demográfica
+6.  Escolarização
+7.  IDHM
+8.  Mortalidade infantil
+9.  Receitas realizadas
+10.  Despesas empenhadas
+11.  PIB per capita
 
 A ideia é rodar o algoritmo de seis em seis meses ou ano a ano e assim gerar um relatório com essas informações. Visto que são informações que não mudam com tanto frequencia, já que necessita de dados atualizados para gerar esses indicadores, por exemplo, o censo demográfico que é gerado de 10 em 10 anos.
 
