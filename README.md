@@ -38,8 +38,7 @@ As informações adquiridas por município são as seguintes:
 10.  Despesas empenhadas
 11.  PIB per capita
 
-A ideia é rodar o algoritmo de seis em seis meses ou ano a ano e assim gerar um relatório com essas informações. Visto que são informações que não mudam com tanto frequencia, já que necessita de dados atualizados para gerar esses indicadores, por exemplo, o censo demográfico que é gerado de 10 em 10 anos.
-
+A ideia é rodar o algoritmo de seis em seis meses ou ano a ano e assim gerar um relatório com essas informações, visto que  não mudam com tanta frequencia, já que necessita de dados atualizados para gerar esses indicadores, por exemplo, o censo demográfico que é gerado de 10 em 10 anos ou resultado de eleições de 4 a 4 anos.
 
 # Bibliotecas Utilizadas
 - [Requests](https://requests.readthedocs.io/en/latest/)
